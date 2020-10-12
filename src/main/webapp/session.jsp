@@ -23,5 +23,6 @@
             Your Favorite Food: <input type="text" name="food" value="<%=food%>"/><br/>
             <input type="submit"/>
         </form>
+            <a href="logout">logout</a>
     </body>
 </html>
